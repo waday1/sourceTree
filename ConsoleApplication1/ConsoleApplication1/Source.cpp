@@ -1,12 +1,13 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
 int main()
 {
 
-	cout << "‚±‚ñ‚É‚¿‚Í@¢ŠE" << endl;
-	cout << "‚±‚ñ‚É‚¿‚Í@¢ŠE" << endl;
-	cout << "‚±‚ñ‚É‚¿‚Í@¢ŠE" << endl;
+	cout << "ã“ã‚“ã«ã¡ã¯ã€€ä¸–ç•Œ" << endl;
+	cout << "ã“ã‚“ã«ã¡ã¯ã€€ä¸–ç•Œ" << endl;
+	cout << "ã“ã‚“ã«ã¡ã¯ã€€ä¸–ç•Œ" << endl;
 
 }
